@@ -4,3 +4,6 @@ Implementation is done in pytorch. The model achieves an accuracy of 99% on trai
 I had implemented a flask API for this application which takes an image as input and outputs the image prediction. 
 
 
+![alt text](postman.png)
+
+
